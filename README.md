@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 
 
 [![Build Status][build-button]][build]
+[build-button]: https://avatars.githubusercontent.com/u/159749926?v=4
