@@ -1,4 +1,4 @@
-# React + Vite
+> # CODE EDITOR
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -21,3 +21,5 @@ Currently, two official plugins are available:
 
 > [!WARNING]
 > Dangerous certain consequences of an action.
+
+> hello
